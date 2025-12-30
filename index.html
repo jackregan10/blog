@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Simple Clean — Home</title>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Text:ital@0;1&family=Inter:wght@300;400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+  <div class="site">
+    <div class="wrapper">
+      <header class="site-header">
+        <div class="site-branding">
+          <h1 class="site-title"><a href="index.html">Your Name</a></h1>
+          <p class="site-description">Writer. Reader. Occasional tinkerer.</p>
+        </div>
+
+        <button class="nav-toggle" aria-expanded="false" aria-controls="main-nav">Menu</button>
+        <nav id="main-nav" class="main-navigation" role="navigation" aria-label="Primary Menu">
+          <ul>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#posts">Blog</a></li>
+          </ul>
+        </nav>
+      </header>
+
+      <main class="content" role="main" id="posts">
+        <article class="post">
+          <header>
+            <h2 class="entry-title"><a href="post-sample.html">A clean starter for static sites</a></h2>
+            <div class="entry-meta">Dec 30, 2025</div>
+          </header>
+          <div class="entry-content">
+            <p>This is a small static site built with semantic HTML, simple CSS, and a touch of JavaScript for the menu. It's designed to be easily edited and deployed to GitHub Pages.</p>
+            <p><a href="post-sample.html">Read more →</a></p>
+          </div>
+        </article>
+
+        <article class="post">
+          <header>
+            <h2 class="entry-title"><a href="post-sample.html">Another post title</a></h2>
+            <div class="entry-meta">Dec 1, 2025</div>
+          </header>
+          <div class="entry-content">
+            <p>Use plain HTML files for posts or pair with a static site generator later. The layout keeps the focus on content.</p>
+          </div>
+        </article>
+      </main>
+
+      <footer class="site-footer">
+        <div class="site-info">&copy; 2025 Your Name — Built with plain HTML/CSS/JS</div>
+      </footer>
+    </div>
+  </div>
+
+<script src="js/main.js"></script>
+</body>
+</html>
