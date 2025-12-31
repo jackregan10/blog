@@ -18,24 +18,24 @@ html,body { height: 100%; margin: 0; font-family: "Times New Roman"; }
 /* Sidebar */
 #sidebar {
   width: 400px;
-  padding: 20px 0 0 40px;
   background: var(--bg);
   overflow-y: auto;
 }
 
 #sidebar h2 {
-  font-size: 22px;
-  margin: 10px 0 200px 0;
+  font-size: 20px;
+  margin: 8px 0 175px 30px;
+  line-height: 1.6;
 }
 
 /* Navigation links */
-.nav-list { display: flex; flex-direction: column; gap: 8px; }
+.nav-list { display: flex; flex-direction: column; gap: 8px; padding: 0px 0px 0px 30px; }
 
 .nav-link {
   display: block;
   text-align: left;
   cursor: pointer;
-  font-size: 14px;
+  font-size: 12px;
   color: var(--main);
   text-decoration: none;
   padding: 1px 0;
@@ -44,11 +44,10 @@ html,body { height: 100%; margin: 0; font-family: "Times New Roman"; }
 /* Content panel */
 #content {
   flex: 1;
-  padding: 24px;
+  padding: 10px 0 0 0;
   overflow-y: auto;
   background: #fff;
   line-height: 1.6;
-  white-space: pre-wrap; /* preserve line breaks from text files */
   color: #222;
 }
 
@@ -57,20 +56,21 @@ html,body { height: 100%; margin: 0; font-family: "Times New Roman"; }
   max-width: 100%;
   height: 150px;
   width: auto;
-  margin: 16px 0;
+  margin: 0;
 }
 
 #content h1, #content h2, #content h3 {
-  margin-top: 24px;
-  margin-bottom: 12px;
-  font-size: 22px;
+  padding-bottom: 175px;
+  font-size: 20px;
+  margin: 0;
 }
 #content h3 {
   font-size: 18px;
 }
 
 #content p {
-  margin-bottom: 12px;
+  padding-top: 0;
+  font-size:12px;
 }
 
 #content strong, #content b {
