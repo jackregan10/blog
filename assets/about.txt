@@ -2,10 +2,20 @@
 
 <img src="assets/headshot-cropped.jpeg" alt="My Photo">
 
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed non risus. Suspendisse lectus tortor, dignissim sit amet, adipiscing nec, ultricies sed, dolor. Cras elementum ultrices diam. Maecenas ligula massa, varius a, semper congue, euismod non, mi.</p>
+<p>I am a third year undergraduate, pursuing a Bachelors of Science in Computer Science at
+Duke University.</p>
 
-<p>Proin porttitor, orci nec nonummy molestie, enim est eleifend mi, non fermentum diam nisl sit amet erat. Duis semper. Duis arcu massa, scelerisque vitae, consequat in, pretium a, enim. Pellentesque congue.</p>
+<p>I'm on <a href="https://www.linkedin.com/in/jackfregan/" target="_blank"
+title="LinkedIn Account">LinkedIn</a>.</p>
 
-<p>Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.</p>
+<p>Mortimer Adler of the University of Chicago  <a
+href="https://www.unz.com/print/SaturdayRev-1940jul06-00011/" target="_blank"
+title="Mortimer Adler, How to Mark a Book">wrote</a> that a true reader should "write
+between the lines". He believed that in effect, reading is passive and produces nothing
+beyond entertainment for the reader on its own merits. In his philosophy, marking up a
+book was indispensable from thinking. This webpage is an attempt to live by Adler's
+philosophy. I am in search of a heavier grasp on the words that I read. My 2026 plan is to
+share my thinking and the thinking of others that I believe present credibility or a
+noticeably strong connection to their reality.</p>
 
-<p>Phasellus ultrices nulla quis nibh. Quisque a lectus. Donec consectetuer ligula vulputate sem tristique cursus. Nam nulla quam, gravida non, commodo a, sodales sit amet, nisi.</p>
+<p>This page is an experiment. I may take it down tomorrow; though, I hope not.</p>

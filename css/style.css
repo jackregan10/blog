@@ -35,7 +35,7 @@ html,body { height: 100%; margin: 0; font-family: "Times New Roman"; }
   display: block;
   text-align: left;
   cursor: pointer;
-  font-size: 12px;
+  font-size: 14px;
   color: var(--main);
   text-decoration: none;
   padding: 1px 0;
@@ -66,20 +66,21 @@ html,body { height: 100%; margin: 0; font-family: "Times New Roman"; }
 }
 #content h3 {
   font-size: 18px;
+  font-weight: 50;
 }
 
 #content p {
   padding-top: 0;
-  font-size:12px;
+  font-size:14px;
 }
 
-#content strong, #content b {
-  font-weight: 600;
-  color: #000;
+#content a {
+    text-decoration: none;
+    color: #006fb9;
 }
 
 /* Placeholder and error */
-.placeholder { color: var(--main); font-size: 16px; }
+.placeholder { color: var(--main); font-size: 14px; }
 .error { color: var(--main); font-weight: 600; }
 
 /* Responsive: collapse sidebar on narrow screens */
