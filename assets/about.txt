@@ -2,7 +2,7 @@
 
 <img src="assets/headshot-cropped.jpeg" alt="My Photo">
 
-<p>I am a third year undergraduate pursuing a Bachelors of Science in Computer Science at
+<p>I am a third year undergraduate pursuing a Bachelors of Science in Computer Science from
 Duke University.</p>
 
 <p>I'm on <a href="https://www.linkedin.com/in/jackfregan/" target="_blank"
@@ -11,10 +11,9 @@ title="LinkedIn Account">LinkedIn</a>.</p>
 <p>Mortimer Adler of the University of Chicago  <a
 href="https://www.unz.com/print/SaturdayRev-1940jul06-00011/" target="_blank"
 title="Mortimer Adler, How to Mark a Book">wrote</a> that a true reader should "write
-between the lines". He believed that reading is passive and in practice produces nothing
-beyond entertainment for the reader. His philosophy professed that marking up a
-book was indispensable from the act of reading. This webpage is an attempt to live by Adler's
-philosophy. I am in search of a heavier grasp on the words that I read. My 2026 plan is to
+between the lines." He believed that reading is passive and in practice only produces entertainment for the reader.
+His philosophy professed that marking up a book was indispensable from the productive act of reading.
+This webpage is an attempt to live by Adler's philosophy, to read with a pencil in my hand. I am in search of a heavier grasp on the words that I read. My 2026 plan is to
 share my thinking and the thinking of others that I believe present credibility or a
 noticeably strong connection to their reality.</p>
 
